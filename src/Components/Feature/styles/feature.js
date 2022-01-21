@@ -34,14 +34,6 @@ display:inline;
 text-align:center;
 font-weight:600;
 font-size:0.75rem;
-&.Change{
-    display:none,
-    color:black,
-    z-index:10,
-    text-align:center;
-    font-weight:600;
-   font-size:0.75rem;
-}
 }
 `;
 
